@@ -47,5 +47,6 @@ TPMforN0.BINは、「TPMfor0.bin」の操作をエミュレータなどで、体
 
 この操作感覚を体験するために、簡単なBASICプログラムを用意しました。
 
-- Order of the colors
+- Order of the colors  
+画像をクリックすると、WebMSXでプレーすることができます。
 [![WebMSX版サンプルプログラム](https://github.com/IKATEN-X/TouchpadMouse_forMSX0/blob/main/ScreenShot.png?raw=true)](https://webmsx.org/?MACHINE=MSX2J&DISK=https://github.com/IKATEN-X/TouchpadMouse_forMSX0/raw/main/OOTC_pen.dsk&MOUSE_MODE=0&FAST_BOOT=1)
