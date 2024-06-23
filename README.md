@@ -55,9 +55,9 @@ TPMforN0.BINは、「TPMfor0.bin」の操作をエミュレータなどで体験
 ゲームオーバーになっても、再度スタートすれば同じステージから続きができますが、同じ色の並びは出ません。  
 連続クリアステージ数を伸ばして、記憶力をお試しください。
 
-MSX0以外でダウンロードしてお試しになる場合は、「OOTC_N0.dsk」を使用してください。  
 画像をクリックすると、WebMSXでプレーすることができます。  
 <a href="https://webmsx.org/?MACHINE=MSX2J&DISK=https://github.com/IKATEN-X/TouchpadMouse_forMSX0/raw/main/OOTC_N0.dsk&MOUSE_MODE=0&FAST_BOOT=1"><img src="https://github.com/IKATEN-X/TouchpadMouse_forMSX0/blob/main/ScreenShot.png?raw=true" width="300"></a>  
-  
+
 MSX0版は「OOTC_0.dsk」をSDカードに入れたうえで、起動ディスクに指定してください。
+MSX0以外でダウンロードしてお試しになる場合は、「OOTC_N0.dsk」を使用してください。  
 
