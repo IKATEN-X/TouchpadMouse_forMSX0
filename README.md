@@ -47,7 +47,14 @@ TPMforN0.BINは、「TPMfor0.bin」の操作をエミュレータなどで体験
 マウスを使って画面をタッチパッドとして操作する感覚で使用することができます。  
 
 この操作感覚を体験するために、簡単なBASICプログラムを用意しました。
-- Order of the colors  
+- Order of the colors
+出題された色の順番を憶えて、ふせられた後、同じ並びにしてステージを進めていくゲームです。  
+1ステージ2回まで間違えられ、3回目でゲームオーバーです。  
+1か所の記憶からスタートし、3ステージ毎に１つずつ増えて難易度が上がっていきます。  
+最大30ステージとなっています。  
+ゲームオーバーになっても、再度スタートすれば同じステージから続きができますが、同じ色の並びは出ません。  
+連続クリアステージ数を伸ばして、記憶力をお試しください。
+
 MSX0以外でダウンロードしてお試しになる場合は、「OOTC_N0.dsk」を使用してください。  
 画像をクリックすると、WebMSXでプレーすることができます。  
 <a href="https://webmsx.org/?MACHINE=MSX2J&DISK=https://github.com/IKATEN-X/TouchpadMouse_forMSX0/raw/main/OOTC_N0.dsk&MOUSE_MODE=0&FAST_BOOT=1"><img src="https://github.com/IKATEN-X/TouchpadMouse_forMSX0/blob/main/ScreenShot.png?raw=true" width="300"></a>  
